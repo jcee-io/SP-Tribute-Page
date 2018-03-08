@@ -1,0 +1,42 @@
+.jumbotron {
+  background: url(http://i2.cdn.turner.com/nba/nba/history/legends/scottie-pippen/4.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  
+}
+
+.jumbotron .jumbohead {
+  color: whitesmoke;
+  font-family: Raleway;
+  font-weight: 700;
+  text-align: center;
+  padding-top: 10%;
+  font-size: 60px;
+  text-shadow: 1px 1px 10px black;
+}
+
+.jumbotron .jumbohead2 {
+  text-align: center;
+  color: whitesmoke;
+  font-weight: 700;
+  text-shadow: 1px 1px 10px black;
+  
+}
+#subbody {
+  background-color: white;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+#body {
+  background-color: #383838 ;
+}
+
+#quote {
+  margin: 30px 0px 40px 0px;
+}
+* {
+  font-family: Raleway;
+}
+
+
